@@ -1,0 +1,29 @@
+## HTTP Status Codes
+
+### **200:** success status response code indicates that the request has succeeded.
+
+### **391/308:** redirect status response code indicates that the resource requested has been definitively moved to the destination URL.
+
+```javascript
+module.exports = {
+  async redirects() {
+    return [
+      {
+        source: "/about",
+        destination: "/",
+        permanent: true, // triggers 308
+      },
+    ];
+  },
+};
+```
+
+### **302:** redirect status response code indicates that the resource requested has been temporarily moved to the destination URL.
+
+### **404:** client error response code indicates that the server can't find the requested resource.
+
+### **410:** client error response code indicates that access to the target resource is no longer available at the origin server and that this condition is likely to be permanent.
+
+### **500:** response code indicates that the server encountered an unexpected condition that prevented it from fulfilling the request.
+
+### **503:** server error response code indicates that the server is not ready to handle the request.
