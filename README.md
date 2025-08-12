@@ -23,6 +23,15 @@ This repository contains my personal notes, exercises, and key takeaways from fo
 - 💡 **Insights**: My own reflections, tips, and patterns learned
 - 📁 **Organized by Course**: Each course has its own folder for clarity.
 
+##  🧾 Certificates
+
+<img width="1200" height="730" alt="1000004809" src="https://github.com/user-attachments/assets/891b6bc8-f7b9-46b2-905d-e5f0433d6333" />
+
+<img width="1200" height="730" alt="1000004808" src="https://github.com/user-attachments/assets/87a100fb-a00f-4f56-96c7-8a70fea9a801" />
+
+<img width="1200" height="730" alt="1000004807" src="https://github.com/user-attachments/assets/fa11c48b-1ba0-4fe0-ba15-8d9fa256a763" />
+
+
 ## 🚀 Why This Repo?
 
 This is not a project you run—this is a learning showcase.  
