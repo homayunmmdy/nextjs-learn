@@ -1,5 +1,34 @@
-## Next.js App Router Course - Starter
+# 📚 Vercel Learning Journey
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This repository contains my personal notes, exercises, and key takeaways from four official Vercel courses. I’ve taken time to study, summarize, and organize all learning material into this repository as part of my growth as a frontend developer.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## ✅ Courses Covered
+
+1. **Next.js - Page Router**  
+   Dive into the fundamentals of the traditional routing system in Next.js using file-based routing with `pages/`.
+
+2. **Next.js - App Router**  
+   A deep dive into the modern App Router introduced in Next.js 13+, using the new `app/` directory structure, layouts, server components, and more.
+
+3. **React Foundations**  
+   A comprehensive course on the foundational concepts of React, including components, state, props, effects, and JSX.
+
+4. **SEO for Web Developers**  
+   A technical guide on optimizing web apps for search engines using best practices with HTML, Next.js, and performance tools.
+
+## 📒 What's Inside
+
+- 🧠 **Notes**: Summarized key concepts from each course
+- 🛠️ **Exercises**: Practice tasks and examples to reinforce understanding
+- 💡 **Insights**: My own reflections, tips, and patterns learned
+- 📁 **Organized by Course**: Each course has its own folder for clarity.
+
+## 🚀 Why This Repo?
+
+This is not a project you run—this is a learning showcase.  
+I created this repository to:
+- Document my learning path
+- Help others looking to understand what the courses offer
+- Keep my progress transparent and structured
+
+If you're considering taking any of these Vercel courses, this repo might give you an idea of what to expect.
